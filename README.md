@@ -1,5 +1,5 @@
 # Oil Wars
-Free open source real time strategy game based on classics. Using stratagus engine.
+Free open source real time strategy game based on classics. Using Stratagus engine.
 
 # Requeriments
 -Sdl 1.2
